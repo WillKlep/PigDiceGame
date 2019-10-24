@@ -1,0 +1,4 @@
+﻿  MP2.cpp
+C:\Users\willi\Google Drive\MP2\MP2\MP2.cpp(25,7): warning C4101: 'userChoice': unreferenced local variable
+C:\Users\willi\Google Drive\MP2\MP2\MP2.cpp(213): warning C4715: 'getUserInput': not all control paths return a value
+  MP2.vcxproj -> C:\Users\willi\Google Drive\MP2\Debug\MP2.exe
